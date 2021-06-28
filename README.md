@@ -1,19 +1,25 @@
-### Hi there 👋
+## 自己紹介
 
-<!--
-**Yuuma-ujimoto/Yuuma-ujimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+名前：氏本祐真 ujimoto yuuma
 
-Here are some ideas to get you started:
+学校：専門学校HAL東京高度情報処理学科三年次(23卒）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技術
+
+### 言語
+
+- python
+  - 高校二年の時から約五年ほど触っています。
+- Java
+  - 二年ほど触って基礎は理解していますがあまり得意ではないです。
+  - 学校の授業でServletとAndroidアプリ開発等を少しだけ触っています。
+- JavaScript
+  - Jqueryを二年ほど触っていて最近はほとんどがWebアプリでのajax用に使っています
+  - 最近Vue.jsに少しだけ手を出していてjqueryで書いた処理を全てVue.jsで書き直すことを当面の目標としています。
+- JavaScript(Node.js)
+  - 一年弱ほどフレームワークのExpressを中心にNode.jsを触っています。
+  - 最近はほとんどNode.jsを扱っています。
+  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuma-ujimoto
 )](https://github.com/anuraghazra/github-readme-stats)
