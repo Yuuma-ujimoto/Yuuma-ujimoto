@@ -18,8 +18,9 @@
   - 最近Vue.jsに少しだけ手を出していてjqueryで書いた処理を全てVue.jsで書き直すことを当面の目標としています。
 - JavaScript(Node.js)
   - 一年弱ほどフレームワークのExpressを中心にNode.jsを触っています。
-  - 最近はほとんどNode.jsを扱っています。
-  
+- Vue.js
+  - 3ヶ月程勉強中
+  - コンポーネントやVuex・Vue-Router・Axiosなどの基礎的な概念を理解できたのでフロントエンドはVueをメインに使っています。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuma-ujimoto
 )](https://github.com/anuraghazra/github-readme-stats)
