@@ -21,6 +21,3 @@
 - Vue.js
   - 3ヶ月程勉強中
   - コンポーネントやVuex・Vue-Router・Axiosなどの基礎的な概念を理解できたのでフロントエンドはVueをメインに使っています。
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuma-ujimoto
-)](https://github.com/anuraghazra/github-readme-stats)
